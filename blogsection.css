@@ -121,3 +121,9 @@ header {
   text-align: center;
   background: #082679;
 }
+
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+  background-color: #acb8d1;
+  color: #fff;
+  border-color: #acb8d1;
+}
