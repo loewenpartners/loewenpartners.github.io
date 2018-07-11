@@ -103,7 +103,7 @@
   background: #082679;
 }
 
-.footer-copyright {
+footer .footer-copyright {
   background-color: #082679;
 }
 
@@ -126,4 +126,8 @@ header {
   background-color: #acb8d1;
   color: #fff;
   border-color: #acb8d1;
+}
+
+ul li a {
+  font-size: 20px;
 }
