@@ -111,3 +111,8 @@
   color: #000;
   background: rgb(242, 245, 255);
 }
+
+.navbar-custom .navbar-nav li a:hover {
+  color: #acb8d1;
+  outline: 0;
+}
