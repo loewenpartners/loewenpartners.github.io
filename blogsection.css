@@ -98,3 +98,11 @@
   background-size: cover;
   -o-background-size: cover;
 }
+
+.navbar-custom {
+  background: #00212f;
+}
+
+.footer-below {
+  background-color: #00212f;
+}
