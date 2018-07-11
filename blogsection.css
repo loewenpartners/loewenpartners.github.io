@@ -99,10 +99,11 @@
   -o-background-size: cover;
 }
 
-.navbar-custom {
+.navbar-color {
   background: #00212f;
 }
 
-.footer-below {
+.footer-copyright {
+  padding: 25px 0;
   background-color: #00212f;
 }
