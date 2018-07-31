@@ -16,6 +16,7 @@ url: "" # the base hostname & protocol for your site
 my_name: John C. Loewen
 email: jloewen@loewenpartners.ca
 phone: +1 416 821 5795
+address: 100 King Street, Toronto, Ontario, 
 
 plugins:
   - jekyll-seo-tag
