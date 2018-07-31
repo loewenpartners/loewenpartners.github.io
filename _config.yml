@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-John C. Loewen
+my_name: John C. Loewen
 email: jloewen@loewenpartners.ca
-Phone: +1 416 821 5795
+phone: +1 416 821 5795
 
 plugins:
   - jekyll-seo-tag
